@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EquipmentInventory4</string>
+    <style name="scan">Scan</style>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_inventory">ListInventoryActivity</string>
+    <string name="title_activity_make_inventory">MakeInventoryActivity</string>
+</resources>
